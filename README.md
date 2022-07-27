@@ -35,6 +35,8 @@ Ensure you have terraform installed on your machine and you are authenticated on
 
 Once you have cloned this repo, change into the directory of the relevant example
 
-`terraform init
+```
+ terraform init
  terraform plan
- terraform apply`
+ terraform apply
+```
